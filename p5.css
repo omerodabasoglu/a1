@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    background-color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    background-color: #f1f2f2;
+    height: 250px;
+    color: #eb5a5b;
+    font-weight: bold;
+    font-family: 'Gloria Hallelujah';
+    text-shadow: 2px 2px 4px #000000;
+    transition: 2s;
+}
+
+#first {
+    color: #414042;
+}
+
+
+#headshot {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    margin: auto;
+    display: block;
+    -webkit-border-radius: 50%;
+    -moz-boder-radius: 50%;
+    border-radius: 50% ;
+    border: 0.5em solid #eb5a5b;
+    box-shadow: 10px 10px 20px #888888;
+    transition: 2s;
+}
+
+#logo {float: right;}
+
+#copyright {text-align: left; }
+
+
+
+@media screen and (max-width: 1080px) {
+    #headshot {
+      position: absolute;
+      top: 20%;
+      left: 40%;
+      margin: auto;
+      display: block;
+      -webkit-border-radius: 50%;
+      -moz-boder-radius: 50%;
+      border-radius: 50% ;
+      border: 0.5em solid #eb5a5b;
+      box-shadow: 10px 10px 20px #888888;
+
+    }
+    body {background-color: #c7c8ca;}
+    header {height: 400px;}
+}
+
+@media screen and (max-width: 780px) {
+    #headshot {
+      position: absolute;
+      top: 35%;
+      left: 40%;
+      margin: auto;
+      display: block;
+      -webkit-border-radius: 50%;
+      -moz-boder-radius: 50%;
+      border-radius: 50% ;
+      border: 0.5em solid #eb5a5b;
+      box-shadow: 10px 10px 20px #888888;
+  }
+  header {height: 500px;}
+
+}
+
+header h1 {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: right;
+    vertical-align: middle;
+    font-size: 5em;
+    margin-top: 0px;
+    padding: 4%;
+}
+
+#randomquote {
+    color: #414042;
+    font-family: 'Gloria Hallelujah', sans-serif;
+    text-align: center;
+    font-size: 2em;
+
+
+}
+
+#quote {
+    color: #414042;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(235, 90, 91, 0.5);
+    margin: 0 20% 20px 20%;
+    border-style: solid;
+    border-color: #414042;
+    border-radius: 35px;
+    font-size: 1.5em;
+  }
+
+footer {
+    background-color: #939598;
+    padding: 1em;
+    height: 120px;
+    margin: auto;
+}
+
+h2 {
+    color: #eb5a5b;
+    text-align: left;
+    padding: 0.1em 0.5em;
+    font-size: 1.5em;
+    margin-left: 20%;
+    font-family: 'Gloria Hallelujah', sans-serif;
+    transition: 2s;
+}
+
+p {
+    font-size: 1em;
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    line-height: 120%;
+    padding-bottom: 20px;
+    transition: 2s;
+}
+
+#ims {text-decoration: none; color: red; font-weight: bold;}
+#ims:hover {color: blue; font-weight: bolder;}
