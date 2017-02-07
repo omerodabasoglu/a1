@@ -26,14 +26,12 @@
               </header>
         </div>
         <div class="row">
-            <img id="headshot" src="/images/headshot.jpg" alt="headshot" height="200">
+            <img id="headshot" src="images/photo.jpg" alt="headshot">
         </div>
 
         <div class="row">
             <main id="main">
-              <div class="row">
-                  <img id="headshot" src="/images/headshot.jpg" alt="headshot" height="200">
-              </div>
+            
                 <h2>ABOUT ME</h2>
                 <p>
                   In pursuit of a graduate degree in <a id="ims" href="https://www.extension.harvard.edu/academics/graduate-degrees/information-management-systems-degree">
