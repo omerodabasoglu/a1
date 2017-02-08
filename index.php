@@ -26,7 +26,7 @@
               </header>
         </div>
         <div class="row">
-            <img id="headshot" src="images/photo.jpg" alt="headshot">
+            <img id="photo" src="/images/photo.jpg" alt="photo">
         </div>
 
         <div class="row">
