@@ -36,12 +36,12 @@
                 <br>
                   I am currently an educational consultant working for a non-profit company in Orange
                   county, CA. Before this position, I had the opportunity of working in different positions
-                  in a school setting from a teacher to a assitant principal, from a counselor to an extracurricular
+                  in a school setting from a teacher to a assistant principal, from a counselor to an extracurricular
                   activity director.
                 <br>
                 <br>
                   I always had passion in computer science, especially the security aspect.
-                  That is why I am also working on a graduate certification in cybersecutiry.
+                  That is why I am also working on a graduate certification in cybersecurity.
                 <br>
                 <br>
                   I regularly play soccer and like to travel when I find time. I have also taken some steps forward
